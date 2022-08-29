@@ -1,4 +1,3 @@
-Python Libraries Required for Working:
 matplotlib.pypolt
 pandas
 numpy
