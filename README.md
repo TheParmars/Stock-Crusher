@@ -1,5 +1,5 @@
 # Stock-Crusher
-Matplotlib
+Matplotlib.pyplot
 pandas
 pandas_datareader
 keras.model
